@@ -4,13 +4,16 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Khanh Thai (Thái Xuân Khánh). <!-- TODO: write a short bio -->
+I am a MS student at [Hanoi University of Science and Technology](https://hust.edu.vn/en/), where I also earned my Bachelor's degree in Control Engineering and Automation. My research interests lie in **control** and **learning for robotics**.
+
+Currently, I'm working in the Locomotion Team at **VinMotion**.
 
 ## News
 <!-- - **[Sept. 2026]** Your news here. -->
 
 ## Education
-<!-- - **Degree**, University, Year-Year -->
+- **M.S. student**, [Hanoi University of Science and Technology](https://hust.edu.vn/en/)
+- **B.Eng. in Control Engineering and Automation**, [Hanoi University of Science and Technology](https://hust.edu.vn/en/)
 
 {% include_relative _includes/experience.md %}
 
