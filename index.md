@@ -12,8 +12,11 @@ Currently, I'm working in the Locomotion Team at **VinMotion**.
 <!-- - **[Sept. 2026]** Your news here. -->
 
 ## Education
-- **M.S. student**, [Hanoi University of Science and Technology](https://hust.edu.vn/en/)
-- **B.Eng. in Control Engineering and Automation**, [Hanoi University of Science and Technology](https://hust.edu.vn/en/)
+- **M.S. in Control Engineering and Automation**, [Hanoi University of Science and Technology](https://hust.edu.vn/en/), 2025 - present
+
+- **B.Eng. in Control Engineering and Automation**, [Hanoi University of Science and Technology](https://hust.edu.vn/en/), 2020 - 2024\\
+    **GPA:** 3.86/4.00, **Rank:** 5/499 in the academic program.\\
+    **Thesis:** Reinforcement learning based optimal formation tracking control for multi wheeled mobile robots.
 
 {% include_relative _includes/experience.md %}
 

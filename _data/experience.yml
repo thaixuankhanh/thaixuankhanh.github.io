@@ -1,6 +1,15 @@
-main: []
-  # - title: "Organization / Lab"
-  #   image: ./assets/exp/logo.png
-  #   description: "Role"
-  #   time: "Month Year - Now"
-  #   page: https://
+main:
+  - title: "VinMotion"
+    description: "Robotics Engineer &middot; Model-based control and reinforcement learning for humanoid locomotion."
+    time: "Aug. 2025 - Now"
+    page: https://vinmotion.net
+
+  - title: "VinMotion"
+    description: "Robotics Intern &middot; Controls software engineering (C++/Python) of control algorithms for humanoid robots; developed, tuned, and optimized control algorithms to enhance locomotion and stability."
+    time: "May - Aug. 2025"
+    page: https://vinmotion.net
+
+  - title: "Department of Automation, School of Electrical and Electronic Engineering, HUST"
+    description: "Research Assistant &middot; Control and reinforcement learning for robotics, advised by Assoc. Prof. Vu Thi Thuy Nga."
+    time: "Jan. 2023 - Now"
+    page: https://seee.hust.edu.vn
