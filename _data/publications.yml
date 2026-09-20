@@ -1,0 +1,17 @@
+main:
+  - title: "Stochastic Integral Reinforcement Learning for Distributed H∞ Optimal Formation Tracking of Multi-Agent Wheeled Mobile Robots"
+    authors: '<strong class="pub-highlight-author">Khanh Thai</strong>, Huy Dao, Nga Thi-Thuy Vu'
+    page: https://researchseeehust.github.io/SIRL/
+    notes: Coming soon
+    image: ./assets/pub/sirl/teaser.jpg
+    video: ./assets/pub/sirl/teaser.mp4
+    others: '<span class="btn btn-sm z-depth-0 btn-disabled" style="font-size:12px;">Paper</span> <span class="btn btn-sm z-depth-0 btn-disabled" style="font-size:12px;">Code</span>'
+  # - title: "Paper title"
+  #   authors: <strong>Khanh Thai</strong>, Co-author
+  #   conference_short: Venue
+  #   conference: Full venue name, Year.
+  #   arxiv: https://arxiv.org/abs/
+  #   pdf: https://arxiv.org/pdf/
+  #   code: https://github.com/
+  #   page: https://
+  #   image: ./assets/pub/paper/teaser.png
