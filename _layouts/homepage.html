@@ -80,6 +80,12 @@
           </p>
 
           <div class="social-icons">
+          {% unless site.cv_link %}
+          <a class="disabled" style="margin: 0 5px 0 0" aria-disabled="true" aria-label="CV (coming soon)">
+            <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+          </a>
+          {% endunless %}
+
           {% if site.email %}
           <a style="margin: 0 5px 0 0" href="mailto:{{ site.email | replace: ' (at) ', '@' }}">
             <i class="fas fa-envelope"></i>

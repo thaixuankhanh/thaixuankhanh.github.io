@@ -29,6 +29,8 @@
     transform: scale(1.2)}
 }
 
+.social-icons a.disabled{opacity:0.4;cursor:default;pointer-events:none}
+
 .theme-toggle {
   display:inline-flex;
   align-items:center;
