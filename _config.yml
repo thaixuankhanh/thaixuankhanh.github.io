@@ -50,6 +50,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENSE
   - minimal-light.gemspec
   - html_source_file/
