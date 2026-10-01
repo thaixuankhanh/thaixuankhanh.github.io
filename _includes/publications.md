@@ -1,9 +1,15 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+{% assign pub_groups = "journal|Journal Papers,conference|Conference Papers,preprint|Preprints" | split: "," %}
+{% for group in pub_groups %}
+{% assign gp = group | split: "|" %}
+{% assign items = site.data.publications[gp[0]] %}
+{% if items and items.size > 0 %}
+<h3 class="pub-group" style="margin: 28px 0 8px;">{{ gp[1] }}</h3>
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in items %}
 
 <li>
 <div class="pub-row">
@@ -53,4 +59,6 @@
 {% endfor %}
 
 </ol>
+{% endif %}
+{% endfor %}
 </div>
