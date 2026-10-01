@@ -1,6 +1,6 @@
 main:
   - title: "Zero-Shot Linear Quadratic Regulation from Reward-Free Data: Structured Successor Features with Stability and Finite-Sample Guarantees"
-    authors: 'Huy Dao, <strong class="pub-highlight-author">Khanh Thai</strong>'
+    authors: 'Huy Dao, <strong class="pub-highlight-author">Khanh Thai</strong>, Bao Le'
     page: https://researchseeehust.github.io/ZeroshotLQR/
     notes: Coming soon
     image: ./assets/pub/zslqr/teaser.gif
