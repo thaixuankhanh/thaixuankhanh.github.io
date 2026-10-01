@@ -11,7 +11,7 @@
     {% if link.video %}
     <video src="{{ link.video }}" class="teaser z-depth-1" autoplay muted loop playsinline preload="metadata"{% if link.image %} poster="{{ link.image }}"{% endif %}></video>
     {% elsif link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:270px;height:123px;max-width:none;">
     {% endif %}
     {% if link.video or link.image %}
     {% if link.conference_short %} 
