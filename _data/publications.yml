@@ -4,7 +4,7 @@ main:
     page: https://researchseeehust.github.io/ZeroshotLQR/
     notes: Coming soon
     image: ./assets/pub/zslqr/teaser.gif
-    others: '<a href="./assets/pub/zslqr/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a> <span class="btn btn-sm z-depth-0 btn-disabled" style="font-size:12px;">Code</span>'
+    others: '<span class="btn btn-sm z-depth-0 btn-disabled" style="font-size:12px;">Paper</span> <span class="btn btn-sm z-depth-0 btn-disabled" style="font-size:12px;">Code</span>'
   - title: "Stochastic Integral Reinforcement Learning for Distributed H∞ Optimal Formation Tracking of Multi-Agent Wheeled Mobile Robots"
     authors: '<strong class="pub-highlight-author">Khanh Thai</strong>, Huy Dao, Nga Thi-Thuy Vu'
     page: https://researchseeehust.github.io/SIRL/
